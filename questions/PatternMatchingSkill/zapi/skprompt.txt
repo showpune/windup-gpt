@@ -1,0 +1,1 @@
+what the java api pattern of {{$tech}} ?
